@@ -139,224 +139,235 @@
                     className: c,
                     id: "navbarSupportedContent"
                 }, r("ul", {
-                    className: "navbar-nav text-left"
-                }, r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "#",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: function(a) {
-                        return a.preventDefault()
-                    },
-                    className: "nav-link dropdown-toggle"
-                }, "Home")), r("ul", {
-                    className: "dropdown-menu"
-                }, r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Home Demo One"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/index-2",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Home Demo Two"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/index-3",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Home Demo Three"))))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/about-us",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "About"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "#"
-                }, r("a", {
-                    onClick: function(a) {
-                        return a.preventDefault()
-                    },
-                    className: "nav-link dropdown-toggle"
-                }, "Solutions")), r("ul", {
-                    className: "dropdown-menu"
-                }, r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/solutions",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Solutions"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/solutions-details",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Solutions Details"))))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "#"
-                }, r("a", {
-                    onClick: function(a) {
-                        return a.preventDefault()
-                    },
-                    className: "nav-link dropdown-toggle"
-                }, "Case Studies")), r("ul", {
-                    className: "dropdown-menu"
-                }, r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/case-studies",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Case Studies"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/case-studies-details",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Case Studies Details"))))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "#"
-                }, r("a", {
-                    onClick: function(a) {
-                        return a.preventDefault()
-                    },
-                    className: "nav-link dropdown-toggle"
-                }, "Pages")), r("ul", {
-                    className: "dropdown-menu"
-                }, r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/team",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Team"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/pricing",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Pricing"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/testimonials",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Testimonials"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/sign-in",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Sign In"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/sign-up",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Sign Up"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/faq",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "FAQ"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/terms-conditions",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Terms & Conditions"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/privacy-policy",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Privacy Policy"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/404",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "404 Error Page"))))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "#"
-                }, r("a", {
-                    onClick: function(a) {
-                        return a.preventDefault()
-                    },
-                    className: "nav-link dropdown-toggle"
-                }, "Blog")), r("ul", {
-                    className: "dropdown-menu"
-                }, r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/blog",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Blog"))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/blog-details",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Blog Details"))))), r("li", {
-                    className: "nav-item"
-                }, r(i.a, {
-                    href: "/contact-us",
-                    activeClassName: "active"
-                }, r("a", {
-                    onClick: o,
-                    className: "nav-link"
-                }, "Contact"))))), r("div", {
+                        className: "navbar-nav text-left"
+                    }, r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "#",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: function(a) {
+                            return a.preventDefault()
+                        },
+                        className: "nav-link dropdown-toggle"
+                    }, "Home")), r("ul", {
+                        className: "dropdown-menu"
+                    }, r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Home Demo One"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/index-2",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Home Demo Two"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/index-3",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Home Demo Three"))))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/about-us",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "About"))), r("li", {
+                            className: "nav-item"
+                        }, r(i.a, {
+                                href: "#"
+                            },
+
+                            r("a", {
+                                onClick: function(a) {
+                                    return a.preventDefault()
+                                },
+                                className: "nav-link dropdown-toggle"
+                            }, "Solutions")),
+                        r("ul", {
+                                className: "dropdown-menu"
+                            },
+                            r("div", {
+                                    className: "d-flex"
+                                },
+                                r("li", {
+                                    className: "nav-item col-lg-6 col-md-6 col-sm-6"
+                                }, r(i.a, {
+                                    href: "/solutions",
+                                    activeClassName: "active"
+                                }, r("a", {
+                                    onClick: o,
+                                    className: "nav-link"
+                                }, "Solutions"))),
+                                r("li", {
+                                    className: "nav-item col-lg-6 col-md-6 col-sm-6"
+                                }, r(i.a, {
+                                    href: "/solutions-details",
+                                    activeClassName: "active"
+                                }, r("a", {
+                                    onClick: o,
+                                    className: "nav-link"
+                                }, "Solutions Details")))))),
+
+
+                    r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "#"
+                    }, r("a", {
+                        onClick: function(a) {
+                            return a.preventDefault()
+                        },
+                        className: "nav-link dropdown-toggle"
+                    }, "Case Studies")), r("ul", {
+                        className: "dropdown-menu"
+                    }, r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/case-studies",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Case Studies"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/case-studies-details",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Case Studies Details"))))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "#"
+                    }, r("a", {
+                        onClick: function(a) {
+                            return a.preventDefault()
+                        },
+                        className: "nav-link dropdown-toggle"
+                    }, "Pages")), r("ul", {
+                        className: "dropdown-menu"
+                    }, r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/team",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Team"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/pricing",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Pricing"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/testimonials",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Testimonials"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/sign-in",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Sign In"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/sign-up",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Sign Up"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/faq",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "FAQ"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/terms-conditions",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Terms & Conditions"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/privacy-policy",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Privacy Policy"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/404",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "404 Error Page"))))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "#"
+                    }, r("a", {
+                        onClick: function(a) {
+                            return a.preventDefault()
+                        },
+                        className: "nav-link dropdown-toggle"
+                    }, "Blog")), r("ul", {
+                        className: "dropdown-menu"
+                    }, r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/blog",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Blog"))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/blog-details",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Blog Details"))))), r("li", {
+                        className: "nav-item"
+                    }, r(i.a, {
+                        href: "/contact-us",
+                        activeClassName: "active"
+                    }, r("a", {
+                        onClick: o,
+                        className: "nav-link"
+                    }, "Contact"))))), r("div", {
                     className: "nav-right"
                 }, r("form", null, r("div", {
                     className: "input-group"
